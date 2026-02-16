@@ -4,5 +4,5 @@ static_sites:
   github:
     branch: master
     repo: BitDevsYDE/bitdevsyde.org
-  build_command: bundle install && bundle exec jekyll build
-  output_dir: _site
+  build_command: bundle install && bundle exec jekyll build --destination public
+  output_dir: public
