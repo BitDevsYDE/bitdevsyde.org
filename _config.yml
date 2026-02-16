@@ -11,8 +11,8 @@ sass:
   style: :compressed
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "BitDevsNBO"
-description: "BitDevsNBO is a meetup devoted to the research and development of Bitcoin."
+title: "BitDevsYDE"
+description: "BitDevsYDE is a meetup devoted to the research and development of Bitcoin."
 
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']

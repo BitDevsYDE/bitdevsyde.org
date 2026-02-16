@@ -1,7 +1,7 @@
-title: 'BitDevsNBO'
-tagline: 'BitDevsNBO is a monthly meetup devoted to the research and development of Bitcoin'
+title: 'BitDevsYDE'
+tagline: 'BitDevsYDE is a monthly meetup devoted to the research and development of Bitcoin'
 
 menu:
-  - {name: 'X', url: 'https://x.com/BitDevsNBO', external: true}
+  - {name: 'X', url: 'https://x.com/BitDevsYDE', external: true}
   - {name: 'Discord', url: 'https://discord.gg/RQmYSGJeNZ', external: true}
-  - {name: 'Luma', url: 'https://lu.ma/bitdevsnbo', external: true}
+  - {name: 'Luma', url: 'https://lu.ma/bitdevsyde', external: true}

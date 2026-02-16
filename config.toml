@@ -9,8 +9,8 @@ compile_sass = true
 build_search_index = false
 
 
-title = "BitDevsNBO"
-description = "BitDevsNBO is a community in Nairobi, Kenya, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software."
+title = "BitDevsYDE"
+description = "BitDevsYDE is a community in Nairobi, Kenya, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software."
 
 [markdown]
 # Whether to do syntax highlighting
@@ -24,7 +24,7 @@ feed_filename = "rss.xml"
 [extra]
 # Put all your custom variables here
 
-github = "https://github.com/BitDevsNBO/bitdevsnbo"
-luma    = "https://lu.ma/bitdevsnbo"
+github = "https://github.com/BitDevsYDE/bitdevsyde"
+luma    = "https://lu.ma/bitdevsyde"
 discord = "https://discord.gg/RQmYSGJeNZ"
-twitter = "https://twitter.com/BitDevsNBO"
+twitter = "https://twitter.com/BitDevsYDE"
