@@ -1,0 +1,8 @@
+name: bitdevsyde
+static_sites:
+- name: web
+  github:
+    branch: master
+    repo: BitDevsYDE/bitdevsyde.org
+  build_command: bundle install && bundle exec jekyll build
+  output_dir: _site
