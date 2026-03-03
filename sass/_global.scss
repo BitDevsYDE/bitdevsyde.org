@@ -19,9 +19,19 @@ html, body {
 }
 
 .Site {
+  /* make site a column flex container so we can stretch its content
+     and keep footer at bottom when page is short */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   max-width: 880px;
   margin: 0 auto;
   padding: 2rem;
+}
+
+.Site-content {
+  /* main content should take all available vertical space */
+  flex: 1;
 }
 
 a {

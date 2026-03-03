@@ -59,6 +59,10 @@ body.dark-mode a {
 }
 
 .Site {
+  /* flex container so footer will sit at bottom on short pages */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   max-width: 880px;
   margin: 0 auto;
   padding: 2rem;
@@ -98,4 +102,8 @@ h4 {
   font-size: 1.2rem;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
+}
+
+.Site-content {
+  flex: 1;
 }

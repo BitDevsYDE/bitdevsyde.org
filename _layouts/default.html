@@ -6,10 +6,13 @@
 <body>
 
   <div class="Site">
-
     {% include header.html %}
 
-    {{ content }}
+    <!-- wrap the page content so we can flexibly grow it and push
+         the footer to the bottom when there's very little content -->
+    <main class="Site-content">
+      {{ content }}
+    </main>
 
     {% include footer.html %}
 
