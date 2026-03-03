@@ -6,19 +6,19 @@ title: "Socratic Seminar #1"
 
 ### Agenda
 
-- Welcoming Address 
+   - Welcoming Address 
 
-- How I got into Bitcoin
+   - How I got into Bitcoin
 
-- Bitcoin 101: Revisiting the White Paper
+   - Bitcoin 101: Revisiting the White Paper
 
-- Bitcoin Developer Opportunities
+   - Bitcoin Developer Opportunities
 
 ### Location
 
 Coworkrz, Bastos, Yaounde ([map](https://www.google.com/maps/search/?api=1&query=3.8931708000000005%2C11.5133467&query_place_id=ChIJFe2KPUDPixARwNXxx_6q0e8))
 
-Registration link : https://luma.com/rf5qim4c
+Registration link : [https://luma.com/rf5qim4c](https://luma.com/rf5qim4c)
 
 ### Announcements
 
@@ -38,6 +38,7 @@ sponsors [Btrust](https://btrust.tech/) for food and refreshments.
 - [bitcoin++ open source edition ](https://btcplusplus.dev/conf/nairobi)
 
 
+
 Submit suggestions for next meeting
 
-Issues on Github: https://github.com/BitDevsYde/bitdevsyde.org/issues
+Issues on Github: [https://github.com/BitDevsYde/bitdevsyde.org/issues](https://github.com/BitDevsYde/bitdevsyde.org/issues)
