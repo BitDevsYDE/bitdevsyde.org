@@ -34,7 +34,7 @@ sponsors [Btrust](https://btrust.tech/) for food and refreshments.
 
 
 ### News and Events
-
+- Bitcoin White Paper [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 - [bitcoin++ open source edition ](https://btcplusplus.dev/conf/nairobi)
 
 
