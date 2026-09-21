@@ -1,3 +1,6 @@
+@use 'sass:color';
+@use 'variables' as *;
+
 .Header {
   margin-bottom: 0.75rem;
 
@@ -60,7 +63,7 @@
       transition: opacity 0.2s ease, color 0.2s ease;
 
       &:hover {
-        color: lighten($primary-color, 10%);
+        color: color.adjust($primary-color, $lightness: 10%);
         opacity: 0.9;
       }
     }

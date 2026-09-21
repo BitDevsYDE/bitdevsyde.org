@@ -1,11 +1,5 @@
-$background-light: #ffffff;
-$font-light: #000000;
-$primary-color-light: #ff7f00;
-
-$background-dark: #000000;
-$font-dark: #ffffff;
-$primary-color-dark: #ff7f00;
-
+@use 'sass:color';
+@use 'variables' as *;
 
 html, body {
   font-family: $body-font;
@@ -41,7 +35,7 @@ a {
   transition: color 0.3s ease;
 
   &:hover {
-    color: lighten($primary-color-light, 10%);
+    color: color.adjust($primary-color-light, $lightness: 10%);
   }
 }
 
@@ -54,7 +48,7 @@ body.dark-mode a {
   color: $primary-color-dark;
 
   &:hover {
-    color: lighten($primary-color-dark, 10%);
+    color: color.adjust($primary-color-dark, $lightness: 10%);
   }
 }
 

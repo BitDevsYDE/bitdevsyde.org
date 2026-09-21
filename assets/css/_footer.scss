@@ -1,3 +1,6 @@
+@use 'sass:color';
+@use 'variables' as *;
+
 .Footer {
   margin-top: 2rem;
   color: $font-color;
@@ -27,7 +30,7 @@
 
       &:hover {
         opacity: 0.9;
-        color: lighten($primary-color, 10%);
+        color: color.adjust($primary-color, $lightness: 10%);
       }
     }
   }

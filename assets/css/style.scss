@@ -1,33 +1,10 @@
 ---
 ---
 
-// Typography
-$body-font: 'Source Code Pro', monospace;
-$base-font-size: 16px;
-
-// Colors
-$background-color: #000000;   // black
-$font-color: #ffffff;         // white
-$primary-color: #FFA500;      // orange
-
-
-// Screen size for responsiveness
-$small-screen: 400px;
-$mid-screen: 768px;
-$large-screen: 1024px;
-
-@import './reset';
-@import './global';
-@import './header';
-@import './footer';
-@import './home';
-@import './post';
-@import './blog';
-
-// @use './reset';
-// @use './global';
-// @use './header';
-// @use './footer';
-// @use './home';
-// @use './post';
-// @use './blog';
+@use './reset';
+@use './global';
+@use './header';
+@use './footer';
+@use './home';
+@use './post';
+@use './blog';
