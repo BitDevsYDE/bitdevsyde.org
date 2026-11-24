@@ -6,7 +6,7 @@ title: "Socratic Seminar #9"
 
 ### Agenda
 
-- Agenda to be announced
+- Live stream: Silent Payments 101 ([BIP 352](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)) by Maldini Sonkeng at Dakar Bitcoin Days IV, Dakar, Senegal (13:30 UTC+1)
 - Q&A, announcements and discussion
 
 ### Location
