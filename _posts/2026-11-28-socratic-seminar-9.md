@@ -6,9 +6,9 @@ title: "Socratic Seminar #9"
 
 ### Agenda
 
+- Live stream: Silent Payments 101 ([BIP 352](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)) at Dakar Bitcoin Days IV, Dakar, Senegal, 13:30 UTC+1 ([sdmg15](https://github.com/sdmg15))
 - [BDK](https://bitcoindevkit.org/) in action: how it powers [Grimm App](https://github.com/grimm-labs/grimm-mobile-app), an open source Bitcoin wallet ([nejos97](https://github.com/nejos97))
 - Hands-on: testing the new version of Grimm App together ([nejos97](https://github.com/nejos97))
-- Live stream: Silent Payments 101 ([BIP 352](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)) at Dakar Bitcoin Days IV, Dakar, Senegal, 13:30 UTC+1 ([sdmg15](https://github.com/sdmg15))
 - Q&A, announcements and discussion
 
 ### Location
